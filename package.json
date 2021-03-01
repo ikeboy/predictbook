@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ikeboy/predictbook/issues"
   },
-  "homepage": "https://github.com/ikeboy/predictbook#readme"
+  "homepage": "https://github.com/ikeboy/predictbook#readme",
+  "dependencies": {
+    "web3": "^1.3.4"
+  }
 }
